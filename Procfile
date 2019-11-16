@@ -1,1 +1,1 @@
-web: gunicorn InAppShipment.wsgi
+web: gunicorn InAppShipmant.wsgi
